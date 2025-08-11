@@ -51,7 +51,7 @@ C’est la page d’exploration approfondie. Depuis le tableau de bord principal
 
 Pour ce faire un bouton de drill-through a été ajouté, permettant de naviguer facilement vers cette page détaillée. Il suffit de cliquer sur un intitulé de poste dans le tableau de bord principal et ensuite de cliquer sur le bouton de drill-through pour accéder à cette vue approfondie.
 
-Un exemple concret serait de cliquer sur "Data Scientist" dans le tableau de bord principal , puis d’utiliser le bouton de drill-through pour accéder à la page dédiée à ce poste. Vous y trouverez des informations détaillées telles que :
+Un exemple concret serait de cliquer sur "Data Scientist" dans le tableau de bord principal sur le graphique en barre par exemple, puis d’utiliser le bouton de drill-through pour accéder à la page dédiée à ce poste. Vous y trouverez des informations détaillées telles que :
 - **Fourchette de salaires** : Visualisation des salaires minimum, maximum et médian pour le poste sélectionné.
 
 - **Statistiques sur le télétravail** : Pourcentage d’offres d’emploi proposant du télétravail, permettant de comprendre les tendances actuelles en matière de flexibilité au travail.
